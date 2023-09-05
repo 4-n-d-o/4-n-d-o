@@ -13,6 +13,7 @@
   <a align="center" href="https://www.java.com"><img width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java"/></a>
   <a align="center" href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript"/></a>
   <a align="center" href="https://mariadb.org/"><img width="40" height="40" src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb"/></a>
+    <a align="center" href="https://redis.io/"><img width="40" height="40" src="https://static-00.iconduck.com/assets.00/redis-original-wordmark-icon-2045x2048-nz2tg5u6.png"></a>
   <a align="center" href="https://www.mongodb.com/"><img width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb"/></a>
   <a align="center" href="https://www.mysql.com/"><img width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql"/></a>
   <a align="center" href="https://www.nginx.com"><img width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx"/></a>
