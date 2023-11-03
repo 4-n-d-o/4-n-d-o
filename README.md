@@ -1,4 +1,3 @@
-<h3 align="center">A Software Engineer from Slovakia</h3>
 <p align="center"><img align="center" src="https://komarev.com/ghpvc/?username=4-n-d-o&label=Profile%20views&color=0e75b6&style=flat"/></p>
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=4-n-d-o&size_weight=0.5&count_weight=0.5&theme=tokyonight"/>&nbsp;&nbsp; <img align="center" src="https://github-readme-stats.vercel.app/api?username=4-n-d-o&show_icons=true&theme=tokyonight"/></p>
 
